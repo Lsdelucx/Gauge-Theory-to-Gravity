@@ -1,2 +1,2 @@
-# Gauge-Theory-to-Gravity
+# Gauge Theory to Gravity: Amplitudes and the Double Copy
 This independent research project extends my BSc dissertation on scattering amplitudes in gauge theory. I use the four-point Kawai-Lewellen-Tye (KLT) relation to construct a four-graviton tree amplitude from two colour-ordered Yang-Mills amplitudes. My next step is to reproduce the result using the Bern-Carrasco-Johansson (BCJ) double copy.
